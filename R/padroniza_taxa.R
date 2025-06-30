@@ -9,7 +9,7 @@
 #' data(brasil2000)
 #' @export
 
-padroniza.taxa = function(
+padroniza_taxa = function(
   x, #db geral
   p, #db com a pop padrao
   #definicao de variaveis dos dataframes
